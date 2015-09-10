@@ -2,7 +2,7 @@ package com.gc.designmodel;
 /**
  * 
     * @说明 学习设计模式之依赖倒置原则(Dependence Inversion Principle,DIP)
-    * @作者 GeneralAndroid
+    * @作者 Android将军
     * @创建日期 2015-9-1 下午1:13:12
     * @版本号 1.0
     * @since 1.0

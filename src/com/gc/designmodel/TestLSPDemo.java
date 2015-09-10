@@ -7,7 +7,7 @@ import java.util.Map;
 /***
  * 
     * @说明 学习设计模式之里式替换原则，LSP（Liskov Substitution Principle,LSP）
-    * @作者 GeneralAndroid
+    * @作者 Android将军
     * @创建日期 2015-8-31 下午1:37:40
     * @版本号 1.0
     * @since 1.0
